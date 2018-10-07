@@ -53,5 +53,5 @@ tests/report/
 .idea*
 
 db.sqlite3
-BetterThanStephen/dank_app/migrations
-BetterThanStephen/venv
+SLCApp/dank_app/migrations
+SLCApp/venv
