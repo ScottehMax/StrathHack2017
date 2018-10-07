@@ -2,7 +2,7 @@ import os
 import django
 import re
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'BetterThanStephen.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'SLCApp.settings')
 django.setup()
 
 from django.contrib.auth.models import User
